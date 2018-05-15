@@ -1,0 +1,36 @@
+.price
+{
+  color: blue;
+  font-family: Helvetica;
+  font-weight: bold;
+}
+
+h1
+{
+  background-image: url(/Users/kirsty/Documents/Projects/DasmotosArtsCrafts/resources/images/pattern.jpg);
+  font-family: Helvetica;
+  font-size: 100px;
+  color: khaki;
+  text-align: center;
+}
+
+h2
+{
+  color: white;
+  font-weight: bold;
+  font-size: 32px;
+}
+
+#brushes h2
+{
+  background-color: mediumspringgreen;
+}
+
+#frames h2
+{background-color: lightcoral;
+}
+
+#paint h2
+{
+  background-color: skyblue;
+}
